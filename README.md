@@ -13,5 +13,6 @@ Fake News & Deepfake Detection Suite: An end-to-end solution to combat misinform
   3. Logistic Regression
   4. Random Forest
   5. Passive Agressive 
+
 -Deepfake detection using MTCNN & InceptionResnetV1
 -Performance evaluation metrics to ensure accuracy and reliability
