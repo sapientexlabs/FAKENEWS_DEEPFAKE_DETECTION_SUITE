@@ -1,5 +1,4 @@
-# FYP_CM3070
-This is my final year project at the University of London
+# FAKENEWS_DEEPFAKE_DETECTION_SUITE
 
 Fake News & Deepfake Detection Suite: An end-to-end solution to combat misinformation. This repository contains tools for rapid and precise identification of fake news articles and deepfake videos.
 
